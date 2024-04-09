@@ -6,7 +6,7 @@ unicórnios.
 
 <img src="docs/holy-crap-i-look-fabulous.jpg" style="float: right">
 
-[baixar]: https://github.com/fegemo/cefet-front-end-unicorns/archive/refs/heads/main.zip
+[baixar]: https://github.com/willsallum/cefet_front_end_unicorns/archive/refs/heads/main.zip
 
 
 ## Atividade
@@ -68,5 +68,5 @@ do título "A Música do Unicórnio", usando o arquivo
 - Minha `<div id="hoje">` parece estar mais larga que o normal. Por quê?
   - Isso é por causa do _Box Model_! Reveja a [explicação sobre ele nos slides][box-model]
 
-[box-model]: https://fegemo.github.io/cefet-front-end/classes/css3/#box-model
-[br]: https://fegemo.github.io/cefet-front-end/classes/css3/#quebra-de-linha
+[box-model]: https://willsallum.github.io/cefet_front_end/classes/css3/#box-model
+[br]: https://willsallum.github.io/cefet_front_end/classes/css3/#quebra-de-linha
